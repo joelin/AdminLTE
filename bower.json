@@ -29,5 +29,13 @@
     "bower_components",
     "composer.json",
     "documentation"
-  ]
+  ],
+  "dependencies": {
+    "moment": "2.11.2",
+    "font-awesome": "4.5.0",
+    "ionicons": "2.0.1",
+    "raphael": "2.1.0",
+    "jquery-ui": "1.11.4",
+    "chart.js": "Chart.js#2.4.0"
+  }
 }
